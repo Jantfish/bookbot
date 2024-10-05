@@ -1,2 +1,1 @@
-# boot_dev_project
-"My first repository on GitHub."
+BookBot is my first project!
